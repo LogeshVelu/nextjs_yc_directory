@@ -1,0 +1,56 @@
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: @sanity/next-loader@0.0.1-canary.30
+npm warn Found: @sanity/client@7.5.0
+npm warn node_modules/@sanity/client
+npm warn   @sanity/client@"^7.5.0" from the root project
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer @sanity/client@"^6.22.0" from @sanity/next-loader@0.0.1-canary.30
+npm warn node_modules/@sanity/next-loader
+npm warn   @sanity/next-loader@"0.0.1-canary.30" from next-sanity@9.5.1-canary.23
+npm warn   node_modules/next-sanity
+npm warn
+npm warn Conflicting peer dependency: @sanity/client@6.29.1
+npm warn node_modules/@sanity/client
+npm warn   peer @sanity/client@"^6.22.0" from @sanity/next-loader@0.0.1-canary.30
+npm warn   node_modules/@sanity/next-loader
+npm warn     @sanity/next-loader@"0.0.1-canary.30" from next-sanity@9.5.1-canary.23
+npm warn     node_modules/next-sanity
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: @sanity/presentation@1.16.5
+npm warn Found: @sanity/client@7.5.0
+npm warn node_modules/@sanity/client
+npm warn   @sanity/client@"^7.5.0" from the root project
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer @sanity/client@"^6.21.3" from @sanity/presentation@1.16.5
+npm warn node_modules/@sanity/presentation
+npm warn   @sanity/presentation@"1.16.5" from sanity@3.60.0
+npm warn   node_modules/sanity
+npm warn
+npm warn Conflicting peer dependency: @sanity/client@6.29.1
+npm warn node_modules/@sanity/client
+npm warn   peer @sanity/client@"^6.21.3" from @sanity/presentation@1.16.5
+npm warn   node_modules/@sanity/presentation
+npm warn     @sanity/presentation@"1.16.5" from sanity@3.60.0
+npm warn     node_modules/sanity
+npm warn ERESOLVE overriding peer dependency
+npm warn While resolving: @sanity/preview-url-secret@1.6.21
+npm warn Found: @sanity/client@7.5.0
+npm warn node_modules/@sanity/client
+npm warn   @sanity/client@"^7.5.0" from the root project
+npm warn
+npm warn Could not resolve dependency:
+npm warn peer @sanity/client@"^6.21.3" from @sanity/preview-url-secret@1.6.21
+npm warn node_modules/@sanity/preview-url-secret
+npm warn   @sanity/preview-url-secret@"^1.6.21" from @sanity/presentation@1.16.5
+npm warn   node_modules/@sanity/presentation
+npm warn
+npm warn Conflicting peer dependency: @sanity/client@6.29.1
+npm warn node_modules/@sanity/client
+npm warn   peer @sanity/client@"^6.21.3" from @sanity/preview-url-secret@1.6.21
+npm warn   node_modules/@sanity/preview-url-secret
+npm warn     @sanity/preview-url-secret@"^1.6.21" from @sanity/presentation@1.16.5
+npm warn     node_modules/@sanity/presentation
+npm error Unable to resolve reference $react
+npm error A complete log of this run can be found in: C:\Users\z004pm8h\AppData\Local\npm-cache\_logs\2025-06-12T06_48_48_083Z-debug-0.log
